@@ -1,2 +1,3 @@
 
 {"timestamp": "2026-10-10T22:37:07+02:00", "scraped": 429, "new": 429, "relevant": 20, "stored": 429, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.8, "relevance_time": 1492.8, "total_time": 1525.0, "errors": 0}
+{"timestamp": "2026-10-11T20:38:36+02:00", "scraped": 200, "new": 0, "relevant": 0, "stored": 428, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.3, "relevance_time": 0.0, "total_time": 1.4, "errors": 0}
