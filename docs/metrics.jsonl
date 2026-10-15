@@ -50,3 +50,4 @@
 {"timestamp": "2026-10-15T15:07:39+02:00", "scraped": 400, "new": 4, "relevant": 0, "stored": 538, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.1, "relevance_time": 14.6, "total_time": 16.7, "errors": 0}
 {"timestamp": "2026-10-15T16:07:56+02:00", "scraped": 400, "new": 1, "relevant": 0, "stored": 539, "unchecked": 1, "initialization_time": 0.0, "scraping_time": 2.2, "relevance_time": 30.1, "total_time": 32.3, "errors": 1}
 {"timestamp": "2026-10-15T17:07:36+02:00", "scraped": 400, "new": 1, "relevant": 1, "stored": 540, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.4, "relevance_time": 5.2, "total_time": 9.2, "errors": 0}
+{"timestamp": "2026-10-15T18:08:06+02:00", "scraped": 400, "new": 12, "relevant": 0, "stored": 552, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.0, "relevance_time": 39.6, "total_time": 41.6, "errors": 0}
