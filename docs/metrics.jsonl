@@ -133,3 +133,4 @@
 {"timestamp": "2026-10-23T20:07:24+02:00", "scraped": 200, "new": 0, "relevant": 0, "stored": 565, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.1, "relevance_time": 0.6, "total_time": 1.8, "errors": 0}
 {"timestamp": "2026-10-26T08:07:28+01:00", "scraped": 400, "new": 4, "relevant": 0, "stored": 511, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.3, "relevance_time": 2.6, "total_time": 5.0, "errors": 0}
 {"timestamp": "2026-10-26T09:07:32+01:00", "scraped": 450, "new": 11, "relevant": 0, "stored": 522, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.8, "relevance_time": 6.5, "total_time": 9.6, "errors": 0}
+{"timestamp": "2026-10-26T10:07:38+01:00", "scraped": 400, "new": 11, "relevant": 0, "stored": 533, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.2, "relevance_time": 6.6, "total_time": 10.0, "errors": 0}
