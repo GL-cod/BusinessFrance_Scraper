@@ -253,3 +253,4 @@
 {"timestamp": "2026-11-06T13:07:35+01:00", "scraped": 400, "new": 5, "relevant": 0, "stored": 581, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.7, "relevance_time": 11.2, "total_time": 12.9, "errors": 0}
 {"timestamp": "2026-11-06T14:07:27+01:00", "scraped": 400, "new": 4, "relevant": 0, "stored": 585, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.0, "relevance_time": 2.4, "total_time": 5.4, "errors": 0}
 {"timestamp": "2026-11-06T15:07:25+01:00", "scraped": 400, "new": 1, "relevant": 0, "stored": 586, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.8, "relevance_time": 0.7, "total_time": 2.5, "errors": 0}
+{"timestamp": "2026-11-06T16:07:25+01:00", "scraped": 400, "new": 3, "relevant": 0, "stored": 589, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.9, "relevance_time": 2.2, "total_time": 5.1, "errors": 0}
